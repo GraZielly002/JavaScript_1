@@ -1,3 +1,5 @@
+//Functions
+
 // Verbo + Substantivo
 //resetaCor, alterarTamanho padrão a ser seguido para nomear uma função
 //let corSite = 'azul';

@@ -1,3 +1,4 @@
+//Tipos de Funções
 // Realiza uma tarefa, não devolve nada
 function dizerNome(){
     console.log('Grazielly');
